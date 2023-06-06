@@ -20,7 +20,7 @@ function Home() {
                 <a href="https://www.linkedin.com/in/ericwen10/">
                     <LinkedInIcon />
                 </a>
-                <a href="ericwen10@berkeley.com">
+                <a href="mailto:ericwen10@berkeley.com">
                     <EmailIcon />
                 </a>
                 <a href="https://github.com/eric-wen10">
